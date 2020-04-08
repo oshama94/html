@@ -1,0 +1,55 @@
+<html>
+<head>
+<style>
+table,th,td
+{
+border:5px solid black;
+border-collapse:collapse;
+th,td
+{
+padding:15px;
+}
+th
+{
+text-align:left;
+color:red;
+text-decoration:underline;
+}
+table
+{
+background-color:white;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th>student name</th>
+<th>student UID</th>
+<th>student Age</th>
+</tr>
+<tr>
+<td>MD Oshama Mansuri</td>
+<td>19BCA1110</td>
+<td>19</td>
+</tr>
+<tr>
+<td>MD Chand</td>
+<td>19BCA1146</td>
+<td>20</td>
+</tr>
+<tr>
+<td>dinesh kartik</td>
+<td>19BCA1165</td>
+<td>18</td>
+</tr>
+<tr>
+<td>mudeshar</td>
+<td>19BCA1128</td>
+<td>22</td>
+</tr>
+</table>
+</body>
+</html>
+
+
